@@ -4,7 +4,7 @@
 
 Unleashing the Future of Science: ResearchDao - Where FVM with Axellar Fuels the Cross-Chain DeSci
 
-RRDao ( DataDao) Created on the FVM Network -> 
+RDao ( DataDao) Created on the FVM Network -> 
 
 | Technology     | Description                                                                                                                                                                                                                                                                                     |
 |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13,11 +13,21 @@ RRDao ( DataDao) Created on the FVM Network ->
 | Lit Protocol   | P2P keys provided by the Lit Protocol were employed for encrypting documents, ensuring privacy and data protection for researchers. Code Implementation-                                                                                                                                                          |
 | Tellor Oracle  | The Tellor Oracle was utilized to fetch and provide on-chain data for research purposes, enabling access to reliable and trustworthy data sources.                                                                                                                                                |
 | Spheron        | Spheron, a decentralized deployment framework, was used to ensure the secure and decentralized deployment of the Research Revolution platform. Deployed Link-                                                                                                                                         |
+## Technologies Brief Usecase 
 
+Staking of an ERC-20 token can be useful in the ResearchRevolution application in several ways:
+
+### Staking of ApeTokens
+
+1. Governance and Voting: Staking is used as a mechanism to determine voting power and influence in the platform's governance processes. Token holders who stake their ERC-20 tokens can earn the right to participate in decision-making processes, such as protocol upgrades, feature enhancements, or platform policies. This ensures that stakeholders who have a vested interest in the success of the platform have a say in its future development.
+
+2. Quality Control and Peer Review: Staking is linked to the peer review process, where researchers stake tokens to review and validate research papers. This creates an incentive for researchers to provide high-quality and thorough peer reviews. Staked tokens can also be used to allocate voting power during the peer review process, ensuring a fair and transparent evaluation of papers.
+
+3. Incentivizing Contribution: Staking serves as a mechanism to reward researchers for their contributions to the platform. Researchers who stake tokens can earn additional tokens as rewards based on their participation, such as uploading papers, providing peer reviews, or contributing to the platform's development. This incentivizes active engagement and encourages researchers to contribute valuable content and feedback.
 
 ## Problems Addressed by ResearchDao
 
-The DeSci project aims to address several challenges in the scientific community using Web3 technologies. Here are the key problems that DeSci intends to solve:
+This DeSci project aims to address several challenges in the scientific community using Web3 technologies. Here are the key problems that DeSci intends to solve:
 
 1. Publishing Problem: Traditional science publishing involves high publishing fees and limited access, leading to restricted dissemination of knowledge and excessive profits for publishers. Free platforms lack quality control and legitimacy. DeSci seeks to leverage Web3 to create an accessible and incentivized system for publishing scientific papers and data.
 
