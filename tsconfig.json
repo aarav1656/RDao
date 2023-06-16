@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "paths": {
+      "@chakra-ui/react": ["./node_modules/@chakra-ui/react"],
+      "@chakra-ui/icons": ["./node_modules/@chakra-ui/icons"],
+      "next-dropzone": ["./node_modules/next-dropzone"],
+      "@lens-protocol/widgets-react": ["./node_modules/@lens-protocol/widgets-react"],
+      "@polybase/auth": ["./node_modules/@polybase/auth"]
+    }
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/pages/nft.tsx"],
+  "exclude": ["node_modules"]
+}
