@@ -1,6 +1,6 @@
 # ResearchDao
 
-### Contract code for the Repo can be found at -> 
+Contract code for the Repo can be found at -> [RDao Contract Code](https://github.com/legendarykamal/RDao-Contract)
 
 Unleashing the Future of Science: ResearchDao - Where FVM with Axellar Fuels the Cross-Chain DeSci
 
